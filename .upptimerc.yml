@@ -10,7 +10,7 @@ sites:
   - name: XMS
     url: https://xms.skretting.com
   - name: AquaSim Authorization
-    url: https://aquasimlogin.skretting.com/auth/Account/Login
+    url: $SEC_LOGIN
   - name: Africa App
     url: https://aquasim-africa.skretting.com
   - name: Asia App
