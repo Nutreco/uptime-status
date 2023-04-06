@@ -13,15 +13,16 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /uptime-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.skretting.com/siteassets/images/logos/skretting-negative.png
   name: Skretting DI uptime monitor and status
-  introTitle: "**uptime-status** is the uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a status page for all Skreting DI applications
+  introTitle: Sketting DI "**uptime-status**"
+  introMessage: This is a monitor & status page for all Skreting DI applications.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: AquaSim Portal
+      href: https://aquasim.skretting.com
+    #  href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
