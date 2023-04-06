@@ -17,8 +17,6 @@ sites:
     url: https://aquasim-asia.skretting.com
   - name: APIM Developer
     url: https://apim-developer.skretting.com
-    
-https://apim.skretting.com    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
