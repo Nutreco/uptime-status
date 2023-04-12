@@ -17,6 +17,22 @@ sites:
     url: https://aquasim-asia.skretting.com
   - name: APIM Developer
     url: https://apim-developer.skretting.com
+    
+  - name: AquaSim Portal UAT
+    url: https://aquasimuat.skretting.com
+  - name: SAM UAT
+    url: https://samuat.skretting.com
+  - name: XMS UAT
+    url: https://xmsuat.skretting.com
+  #- name: AquaSim Authorization UAT
+  #  url: $SEC_LOGIN
+  - name: Africa App UAT
+    url: https://aquasimuat-africa.skretting.com
+  - name: Asia App UAT
+    url: https://aquasimuat-asia.skretting.com
+  - name: APIM Developer UAT
+    url: https://apimuat-developer.skretting.com
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
