@@ -184,19 +184,19 @@
     "url": "$SEC_LOGIN_UAT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aqua-sim-authorization-uat",
-    "status": "up",
-    "uptime": "69.46%",
-    "uptimeDay": "69.46%",
-    "uptimeWeek": "69.46%",
-    "uptimeMonth": "69.46%",
-    "uptimeYear": "69.46%",
-    "time": 469,
-    "timeDay": 469,
-    "timeWeek": 469,
-    "timeMonth": 469,
-    "timeYear": 469,
+    "status": "down",
+    "uptime": "71.36%",
+    "uptimeDay": "71.36%",
+    "uptimeWeek": "71.36%",
+    "uptimeMonth": "71.36%",
+    "uptimeYear": "71.36%",
+    "time": 467,
+    "timeDay": 467,
+    "timeWeek": 467,
+    "timeMonth": 467,
+    "timeYear": 467,
     "dailyMinutesDown": {
-      "2023-04-12": 175
+      "2023-04-12": 166
     }
   },
   {
