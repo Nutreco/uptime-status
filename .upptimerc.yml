@@ -26,7 +26,7 @@ sites:
     url: https://xmsuat.skretting.com
   - name: AquaSim Authorization UAT
     url: $SEC_LOGIN_UAT
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: Africa App UAT
     url: https://aquasimuat-africa.skretting.com
   - name: Asia App UAT
