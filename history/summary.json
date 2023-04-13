@@ -184,19 +184,19 @@
     "url": "$SEC_LOGIN_UAT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aqua-sim-authorization-uat",
-    "status": "up",
-    "uptime": "68.84%",
-    "uptimeDay": "68.84%",
-    "uptimeWeek": "68.84%",
-    "uptimeMonth": "68.84%",
-    "uptimeYear": "68.84%",
+    "status": "down",
+    "uptime": "70.30%",
+    "uptimeDay": "70.30%",
+    "uptimeWeek": "70.30%",
+    "uptimeMonth": "70.30%",
+    "uptimeYear": "70.30%",
     "time": 470,
     "timeDay": 470,
     "timeWeek": 470,
     "timeMonth": 470,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2023-04-13": 104,
+      "2023-04-13": 91,
       "2023-04-12": 198
     }
   },
@@ -241,19 +241,19 @@
     "url": "https://apimuat-developer.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/apimuat-developer.skretting.com.ico",
     "slug": "apim-developer-uat",
-    "status": "down",
-    "uptime": "94.18%",
-    "uptimeDay": "94.18%",
-    "uptimeWeek": "94.18%",
-    "uptimeMonth": "94.18%",
-    "uptimeYear": "94.18%",
-    "time": 764,
-    "timeDay": 764,
-    "timeWeek": 764,
-    "timeMonth": 764,
-    "timeYear": 764,
+    "status": "up",
+    "uptime": "93.62%",
+    "uptimeDay": "93.62%",
+    "uptimeWeek": "93.62%",
+    "uptimeMonth": "93.62%",
+    "uptimeYear": "93.62%",
+    "time": 1040,
+    "timeDay": 1040,
+    "timeWeek": 1040,
+    "timeMonth": 1040,
+    "timeYear": 1040,
     "dailyMinutesDown": {
-      "2023-04-13": 57
+      "2023-04-13": 63
     }
   }
 ]
