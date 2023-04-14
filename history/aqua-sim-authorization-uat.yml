@@ -1,7 +1,7 @@
 url: $SEC_LOGIN_UAT
-status: up
-code: 200
-responseTime: 729
-lastUpdated: 2023-04-14T01:11:39.894Z
+status: down
+code: 404
+responseTime: 535
+lastUpdated: 2023-04-14T02:34:36.827Z
 startTime: Wed Apr 12 2023 13:38:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
