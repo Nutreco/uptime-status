@@ -1,7 +1,7 @@
 url: $SEC_LOGIN
-status: down
-code: 503
-responseTime: 591
-lastUpdated: 2023-06-28T06:06:36.155Z
+status: up
+code: 200
+responseTime: 635
+lastUpdated: 2023-06-28T06:16:54.421Z
 startTime: Thu Apr 06 2023 14:04:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
