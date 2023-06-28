@@ -58,18 +58,20 @@
     "url": "$SEC_LOGIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aqua-sim-authorization",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 912,
-    "timeDay": 606,
-    "timeWeek": 604,
+    "time": 909,
+    "timeDay": 599,
+    "timeWeek": 603,
     "timeMonth": 611,
-    "timeYear": 912,
-    "dailyMinutesDown": {}
+    "timeYear": 909,
+    "dailyMinutesDown": {
+      "2023-06-28": 0
+    }
   },
   {
     "name": "Africa App",
