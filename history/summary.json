@@ -22,19 +22,19 @@
     "url": "https://sam.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/sam.skretting.com.ico",
     "slug": "sam",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 58,
-    "timeWeek": 90,
-    "timeMonth": 143,
-    "timeYear": 136,
+    "time": 135,
+    "timeDay": 54,
+    "timeWeek": 85,
+    "timeMonth": 140,
+    "timeYear": 135,
     "dailyMinutesDown": {
-      "2023-07-20": 0
+      "2023-07-20": 6
     }
   },
   {
