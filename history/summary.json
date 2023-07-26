@@ -6,17 +6,17 @@
     "slug": "aqua-sim-portal",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 678,
+    "time": 677,
     "timeDay": 659,
     "timeWeek": 782,
     "timeMonth": 655,
-    "timeYear": 678,
+    "timeYear": 677,
     "dailyMinutesDown": {
-      "2023-07-26": 0
+      "2023-07-26": 6
     }
   },
   {
