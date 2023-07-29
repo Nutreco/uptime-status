@@ -76,19 +76,19 @@
     "url": "https://aquasim-africa.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/aquasim-africa.skretting.com.ico",
     "slug": "africa-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 172,
-    "timeDay": 269,
-    "timeWeek": 238,
-    "timeMonth": 180,
-    "timeYear": 172,
+    "time": 173,
+    "timeDay": 273,
+    "timeWeek": 243,
+    "timeMonth": 184,
+    "timeYear": 173,
     "dailyMinutesDown": {
-      "2023-07-29": 0
+      "2023-07-29": 7
     }
   },
   {
