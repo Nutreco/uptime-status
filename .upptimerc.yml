@@ -11,10 +11,6 @@ sites:
     url: https://xms.skretting.com
   - name: AquaSim Authorization
     url: $SEC_LOGIN
-  - name: Africa App
-    url: https://aquasim-africa.skretting.com
-  - name: Asia App
-    url: https://aquasim-asia.skretting.com
   - name: APIM Developer
     url: https://apim-developer.skretting.com
     
