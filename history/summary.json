@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 671,
-    "timeDay": 758,
-    "timeWeek": 598,
-    "timeMonth": 696,
-    "timeYear": 671,
+    "time": 670,
+    "timeDay": 542,
+    "timeWeek": 604,
+    "timeMonth": 574,
+    "timeYear": 670,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 138,
-    "timeWeek": 98,
+    "timeDay": 123,
+    "timeWeek": 106,
     "timeMonth": 110,
     "timeYear": 136,
     "dailyMinutesDown": {}
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 695,
-    "timeDay": 848,
-    "timeWeek": 700,
-    "timeMonth": 644,
+    "timeDay": 614,
+    "timeWeek": 706,
+    "timeMonth": 646,
     "timeYear": 695,
     "dailyMinutesDown": {}
   },
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 755,
-    "timeDay": 739,
-    "timeWeek": 588,
-    "timeMonth": 538,
-    "timeYear": 755,
+    "time": 753,
+    "timeDay": 426,
+    "timeWeek": 585,
+    "timeMonth": 535,
+    "timeYear": 753,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 831,
-    "timeDay": 634,
-    "timeWeek": 641,
-    "timeMonth": 631,
-    "timeYear": 831,
+    "time": 830,
+    "timeDay": 670,
+    "timeWeek": 655,
+    "timeMonth": 633,
+    "timeYear": 830,
     "dailyMinutesDown": {}
   },
   {
@@ -96,18 +96,16 @@
     "slug": "aqua-sim-portal-uat",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 709,
-    "timeDay": 670,
-    "timeWeek": 608,
-    "timeMonth": 694,
-    "timeYear": 709,
-    "dailyMinutesDown": {
-      "2023-09-12": 5
-    }
+    "time": 708,
+    "timeDay": 608,
+    "timeWeek": 617,
+    "timeMonth": 580,
+    "timeYear": 708,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SAM UAT",
@@ -120,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 97,
-    "timeWeek": 152,
+    "time": 174,
+    "timeDay": 55,
+    "timeWeek": 90,
     "timeMonth": 97,
-    "timeYear": 175,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   }
 ]
