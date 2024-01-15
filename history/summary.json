@@ -112,19 +112,19 @@
     "url": "https://samuat.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/samuat.skretting.com.ico",
     "slug": "sam-uat",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 88,
-    "timeWeek": 85,
+    "time": 140,
+    "timeDay": 70,
+    "timeWeek": 81,
     "timeMonth": 67,
-    "timeYear": 141,
+    "timeYear": 140,
     "dailyMinutesDown": {
-      "2024-01-15": 0
+      "2024-01-15": 6
     }
   }
 ]
