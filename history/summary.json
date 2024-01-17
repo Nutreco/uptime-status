@@ -22,19 +22,19 @@
     "url": "https://sam.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/sam.skretting.com.ico",
     "slug": "sam",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 120,
-    "timeWeek": 85,
-    "timeMonth": 90,
+    "timeDay": 118,
+    "timeWeek": 89,
+    "timeMonth": 91,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-01-17": 1
+      "2024-01-17": 9
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "https://samuat.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/samuat.skretting.com.ico",
     "slug": "sam-uat",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 111,
-    "timeWeek": 76,
+    "timeDay": 82,
+    "timeWeek": 73,
     "timeMonth": 68,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 8
     }
   }
 ]
