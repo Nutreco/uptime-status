@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 633,
-    "timeDay": 473,
-    "timeWeek": 668,
-    "timeMonth": 584,
+    "timeDay": 800,
+    "timeWeek": 699,
+    "timeMonth": 588,
     "timeYear": 633,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "sam",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 118,
-    "timeWeek": 89,
-    "timeMonth": 91,
+    "timeDay": 94,
+    "timeWeek": 84,
+    "timeMonth": 92,
     "timeYear": 124,
-    "dailyMinutesDown": {
-      "2024-01-17": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "XMS",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 688,
-    "timeDay": 618,
-    "timeWeek": 711,
-    "timeMonth": 663,
+    "timeDay": 871,
+    "timeWeek": 747,
+    "timeMonth": 665,
     "timeYear": 688,
     "dailyMinutesDown": {}
   },
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 710,
-    "timeDay": 538,
-    "timeWeek": 591,
-    "timeMonth": 540,
+    "timeDay": 749,
+    "timeWeek": 615,
+    "timeMonth": 543,
     "timeYear": 710,
     "dailyMinutesDown": {}
   },
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 755,
-    "timeDay": 541,
-    "timeWeek": 650,
-    "timeMonth": 591,
+    "timeDay": 713,
+    "timeWeek": 665,
+    "timeMonth": 594,
     "timeYear": 755,
     "dailyMinutesDown": {}
   },
@@ -103,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 650,
-    "timeDay": 563,
-    "timeWeek": 563,
-    "timeMonth": 557,
+    "timeDay": 637,
+    "timeWeek": 586,
+    "timeMonth": 559,
     "timeYear": 650,
     "dailyMinutesDown": {}
   },
@@ -116,17 +114,15 @@
     "slug": "sam-uat",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 82,
-    "timeWeek": 73,
+    "time": 139,
+    "timeDay": 61,
+    "timeWeek": 66,
     "timeMonth": 68,
-    "timeYear": 140,
-    "dailyMinutesDown": {
-      "2024-01-17": 8
-    }
+    "timeYear": 139,
+    "dailyMinutesDown": {}
   }
 ]
