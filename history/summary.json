@@ -22,10 +22,10 @@
     "url": "https://sam.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/sam.skretting.com.ico",
     "slug": "sam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
@@ -33,7 +33,9 @@
     "timeWeek": 99,
     "timeMonth": 93,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-19": 1
+    }
   },
   {
     "name": "XMS",
@@ -94,10 +96,10 @@
     "url": "https://aquasimuat.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/aquasimuat.skretting.com.ico",
     "slug": "aqua-sim-portal-uat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 649,
@@ -105,16 +107,18 @@
     "timeWeek": 582,
     "timeMonth": 558,
     "timeYear": 649,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-19": 1
+    }
   },
   {
     "name": "SAM UAT",
     "url": "https://samuat.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/samuat.skretting.com.ico",
     "slug": "sam-uat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,6 +127,8 @@
     "timeWeek": 68,
     "timeMonth": 67,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-19": 0
+    }
   }
 ]
