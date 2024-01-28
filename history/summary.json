@@ -58,19 +58,19 @@
     "url": "$SEC_LOGIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aqua-sim-authorization",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 705,
-    "timeDay": 548,
-    "timeWeek": 524,
-    "timeMonth": 570,
-    "timeYear": 705,
+    "time": 708,
+    "timeDay": 1070,
+    "timeWeek": 658,
+    "timeMonth": 602,
+    "timeYear": 708,
     "dailyMinutesDown": {
-      "2024-01-28": 0
+      "2024-01-28": 5
     }
   },
   {
