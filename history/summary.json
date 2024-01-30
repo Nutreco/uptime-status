@@ -4,19 +4,19 @@
     "url": "https://aquasim.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/aquasim.skretting.com.ico",
     "slug": "aqua-sim-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 634,
-    "timeDay": 436,
-    "timeWeek": 648,
-    "timeMonth": 650,
+    "timeDay": 554,
+    "timeWeek": 650,
+    "timeMonth": 651,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2024-01-30": 0
+      "2024-01-30": 7
     }
   },
   {
