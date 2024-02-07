@@ -58,18 +58,20 @@
     "url": "$SEC_LOGIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aqua-sim-authorization",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 716,
-    "timeDay": 1966,
+    "timeDay": 819,
     "timeWeek": 1044,
     "timeMonth": 732,
     "timeYear": 716,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-07": 0
+    }
   },
   {
     "name": "APIM Developer",
