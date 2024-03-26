@@ -4,18 +4,20 @@
     "url": "https://aquasim.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/aquasim.skretting.com.ico",
     "slug": "aqua-sim-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 632,
-    "timeDay": 624,
-    "timeWeek": 565,
-    "timeMonth": 610,
+    "timeDay": 591,
+    "timeWeek": 564,
+    "timeMonth": 609,
     "timeYear": 632,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-26": 2
+    }
   },
   {
     "name": "SAM",
@@ -40,10 +42,10 @@
     "url": "https://xms.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/xms.skretting.com.ico",
     "slug": "xms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 682,
@@ -51,7 +53,9 @@
     "timeWeek": 689,
     "timeMonth": 667,
     "timeYear": 682,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-26": 1
+    }
   },
   {
     "name": "AquaSim Authorization",
