@@ -94,9 +94,9 @@
     "url": "https://aquasimuat.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/aquasimuat.skretting.com.ico",
     "slug": "aqua-sim-portal-uat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 687,
     "timeMonth": 641,
     "timeYear": 591,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-14": 0
+    }
   },
   {
     "name": "SAM UAT",
