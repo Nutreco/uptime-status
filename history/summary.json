@@ -4,10 +4,10 @@
     "url": "https://aquasim.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/aquasim.skretting.com.ico",
     "slug": "aqua-sim-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 629,
@@ -15,7 +15,9 @@
     "timeWeek": 672,
     "timeMonth": 616,
     "timeYear": 613,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-30": 1
+    }
   },
   {
     "name": "SAM",
@@ -24,9 +26,9 @@
     "slug": "sam",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 121,
     "timeDay": 122,
@@ -34,7 +36,7 @@
     "timeMonth": 133,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-07-30": 0
+      "2024-07-30": 7
     }
   },
   {
@@ -96,9 +98,9 @@
     "url": "https://aquasimuat.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/aquasimuat.skretting.com.ico",
     "slug": "aqua-sim-portal-uat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,16 +109,18 @@
     "timeWeek": 615,
     "timeMonth": 573,
     "timeYear": 590,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-30": 0
+    }
   },
   {
     "name": "SAM UAT",
     "url": "https://samuat.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/samuat.skretting.com.ico",
     "slug": "sam-uat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,6 +129,8 @@
     "timeWeek": 101,
     "timeMonth": 88,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-30": 0
+    }
   }
 ]
