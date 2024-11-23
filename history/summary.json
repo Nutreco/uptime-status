@@ -42,19 +42,19 @@
     "url": "https://xms.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/xms.skretting.com.ico",
     "slug": "xms",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 679,
-    "timeDay": 672,
-    "timeWeek": 628,
-    "timeMonth": 654,
-    "timeYear": 682,
+    "timeDay": 793,
+    "timeWeek": 664,
+    "timeMonth": 662,
+    "timeYear": 683,
     "dailyMinutesDown": {
-      "2024-11-23": 0
+      "2024-11-23": 5
     }
   },
   {
