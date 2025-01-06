@@ -35,6 +35,8 @@ status-website:
       href: /
     - title: AquaSim Portal
       href: https://aquasim.skretting.com
+    - title: SAM
+      href: https://sam.skretting.com      
     #  href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
