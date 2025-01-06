@@ -5,6 +5,8 @@ repo: uptime-status # The name of this repository
 sites:
   - name: AquaSim Portal
     url: https://aquasim.skretting.com
+  - name: SupplierInformation Portal
+    url: https://supplierinformation.skretting.com    
   - name: SAM
     url: https://sam.skretting.com
   - name: AquaSim Authorization
