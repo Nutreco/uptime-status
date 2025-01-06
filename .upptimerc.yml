@@ -7,8 +7,6 @@ sites:
     url: https://aquasim.skretting.com
   - name: SAM
     url: https://sam.skretting.com
-  - name: XMS
-    url: https://xms.skretting.com
   - name: AquaSim Authorization
     url: $SEC_LOGIN
   - name: APIM Developer
