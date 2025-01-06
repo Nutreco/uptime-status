@@ -3,21 +3,23 @@ owner: Nutreco # Your GitHub organization or username, where this repository liv
 repo: uptime-status # The name of this repository
 
 sites:
+  - name: SIM
+    url: https://simapi.skretting.com
+  - name: SAM
+    url: https://sam.skretting.com 
   - name: AquaSim Portal
     url: https://aquasim.skretting.com
   - name: SupplierInformation Portal
     url: https://supplierinformation.skretting.com    
-  - name: SAM
-    url: https://sam.skretting.com
-  - name: AquaSim Authorization
-    url: $SEC_LOGIN
   - name: APIM Developer
     url: https://apim-developer.skretting.com
     
+  - name: SIM UAT
+    url: https://simapiuat.skretting.com
+  - name: SAM UAT
+    url: https://samuat.skretting.com   
   - name: AquaSim Portal UAT
     url: https://aquasimuat.skretting.com
-  - name: SAM UAT
-    url: https://samuat.skretting.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
