@@ -50,7 +50,7 @@
     "timeDay": 515,
     "timeWeek": 731,
     "timeMonth": 624,
-    "timeYear": 632,
+    "timeYear": 629,
     "dailyMinutesDown": {
       "2024-08-29": 338
     }
@@ -96,18 +96,20 @@
     "url": "https://simapiuat.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/simapiuat.skretting.com.ico",
     "slug": "sim-uat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 377,
-    "timeWeek": 460,
-    "timeMonth": 443,
-    "timeYear": 443,
-    "dailyMinutesDown": {}
+    "time": 441,
+    "timeDay": 380,
+    "timeWeek": 450,
+    "timeMonth": 441,
+    "timeYear": 441,
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "SAM UAT",
