@@ -4,19 +4,19 @@
     "url": "https://simapi.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/simapi.skretting.com.ico",
     "slug": "sim",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 576,
-    "timeWeek": 523,
-    "timeMonth": 528,
-    "timeYear": 491,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
+    "time": 492,
+    "timeDay": 592,
+    "timeWeek": 534,
+    "timeMonth": 531,
+    "timeYear": 492,
     "dailyMinutesDown": {
-      "2025-04-03": 0
+      "2025-04-03": 43
     }
   },
   {
