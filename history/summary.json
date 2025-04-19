@@ -27,17 +27,17 @@
     "slug": "sam",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "44.10%",
-    "uptimeWeek": "92.01%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "99.85%",
+    "uptimeDay": "42.22%",
+    "uptimeWeek": "91.75%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "99.84%",
     "time": 139,
     "timeDay": 51,
     "timeWeek": 134,
     "timeMonth": 301,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-04-19": 805
+      "2025-04-19": 832
     }
   },
   {
@@ -47,9 +47,9 @@
     "slug": "aqua-sim-portal",
     "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "44.10%",
-    "uptimeWeek": "92.01%",
-    "uptimeMonth": "98.16%",
+    "uptimeDay": "42.22%",
+    "uptimeWeek": "91.75%",
+    "uptimeMonth": "98.10%",
     "uptimeYear": "99.78%",
     "time": 639,
     "timeDay": 595,
@@ -57,7 +57,7 @@
     "timeMonth": 632,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2025-04-19": 805,
+      "2025-04-19": 832,
       "2024-08-29": 338
     }
   },
@@ -86,19 +86,19 @@
     "url": "https://apim-developer.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/apim-developer.skretting.com.ico",
     "slug": "apim-developer",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "44.10%",
-    "uptimeWeek": "92.01%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "99.85%",
+    "uptimeDay": "42.23%",
+    "uptimeWeek": "91.75%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "99.84%",
     "time": 636,
-    "timeDay": 482,
-    "timeWeek": 588,
-    "timeMonth": 584,
+    "timeDay": 611,
+    "timeWeek": 607,
+    "timeMonth": 589,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2025-04-19": 805
+      "2025-04-19": 832
     }
   },
   {
@@ -130,17 +130,17 @@
     "slug": "sam-uat",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "44.10%",
-    "uptimeWeek": "92.01%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "99.85%",
+    "uptimeDay": "42.23%",
+    "uptimeWeek": "91.75%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "99.84%",
     "time": 126,
     "timeDay": 162,
     "timeWeek": 121,
     "timeMonth": 147,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-04-19": 805
+      "2025-04-19": 832
     }
   },
   {
@@ -150,17 +150,17 @@
     "slug": "aqua-sim-portal-uat",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "44.10%",
-    "uptimeWeek": "92.01%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "99.85%",
+    "uptimeDay": "42.23%",
+    "uptimeWeek": "91.75%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "99.84%",
     "time": 622,
     "timeDay": 526,
     "timeWeek": 567,
     "timeMonth": 650,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2025-04-19": 805
+      "2025-04-19": 832
     }
   }
 ]
