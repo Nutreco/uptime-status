@@ -6,9 +6,9 @@
     "slug": "sim",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
     "time": 493,
     "timeDay": 565,
@@ -16,7 +16,7 @@
     "timeMonth": 498,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2025-04-19": 0,
+      "2025-04-19": 3,
       "2025-04-03": 43
     }
   },
@@ -27,9 +27,9 @@
     "slug": "sam",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 139,
     "timeDay": 51,
@@ -37,7 +37,7 @@
     "timeMonth": 301,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-04-19": 0
+      "2025-04-19": 3
     }
   },
   {
@@ -47,9 +47,9 @@
     "slug": "aqua-sim-portal",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.94%",
     "time": 639,
     "timeDay": 595,
@@ -57,7 +57,7 @@
     "timeMonth": 632,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2025-04-19": 0,
+      "2025-04-19": 3,
       "2024-08-29": 338
     }
   },
@@ -68,9 +68,9 @@
     "slug": "supplier-information-portal",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 166,
     "timeDay": 60,
@@ -78,7 +78,7 @@
     "timeMonth": 153,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-04-19": 0
+      "2025-04-19": 3
     }
   },
   {
@@ -88,9 +88,9 @@
     "slug": "apim-developer",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 636,
     "timeDay": 482,
@@ -98,7 +98,7 @@
     "timeMonth": 584,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2025-04-19": 0
+      "2025-04-19": 3
     }
   },
   {
@@ -108,9 +108,9 @@
     "slug": "sim-uat",
     "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.29%",
     "time": 476,
     "timeDay": 628,
@@ -118,7 +118,7 @@
     "timeMonth": 483,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2025-04-19": 0,
+      "2025-04-19": 3,
       "2025-01-30": 557,
       "2025-01-29": 488
     }
@@ -130,9 +130,9 @@
     "slug": "sam-uat",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 126,
     "timeDay": 162,
@@ -140,7 +140,7 @@
     "timeMonth": 147,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-04-19": 0
+      "2025-04-19": 3
     }
   },
   {
@@ -150,9 +150,9 @@
     "slug": "aqua-sim-portal-uat",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 622,
     "timeDay": 526,
@@ -160,7 +160,7 @@
     "timeMonth": 650,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2025-04-19": 0
+      "2025-04-19": 3
     }
   }
 ]
