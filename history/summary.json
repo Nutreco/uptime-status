@@ -47,19 +47,19 @@
     "url": "https://aquasim.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/aquasim.skretting.com.ico",
     "slug": "aqua-sim-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "79.70%",
-    "uptimeWeek": "97.10%",
-    "uptimeMonth": "99.33%",
+    "uptimeDay": "79.27%",
+    "uptimeWeek": "97.04%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "99.66%",
-    "time": 649,
-    "timeDay": 591,
-    "timeWeek": 559,
-    "timeMonth": 758,
-    "timeYear": 655,
+    "time": 664,
+    "timeDay": 4356,
+    "timeWeek": 1504,
+    "timeMonth": 988,
+    "timeYear": 675,
     "dailyMinutesDown": {
-      "2025-10-29": 292,
+      "2025-10-29": 299,
       "2025-04-20": 37,
       "2025-04-19": 1434
     }
@@ -71,9 +71,9 @@
     "slug": "supplier-information-portal",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "81.21%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "99.38%",
+    "uptimeDay": "80.71%",
+    "uptimeWeek": "97.24%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "99.76%",
     "time": 162,
     "timeDay": 637,
@@ -81,7 +81,7 @@
     "timeMonth": 133,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-10-29": 271,
+      "2025-10-29": 278,
       "2025-04-19": 756
     }
   },
@@ -134,11 +134,11 @@
     "url": "https://samuat.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/samuat.skretting.com.ico",
     "slug": "sam-uat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "80.68%",
-    "uptimeWeek": "97.24%",
-    "uptimeMonth": "99.36%",
+    "uptimeDay": "81.26%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "99.38%",
     "uptimeYear": "99.67%",
     "time": 151,
     "timeDay": 3030,
@@ -146,7 +146,7 @@
     "timeMonth": 428,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-10-29": 278,
+      "2025-10-29": 270,
       "2025-04-20": 37,
       "2025-04-19": 1434
     }
@@ -158,9 +158,9 @@
     "slug": "aqua-sim-portal-uat",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "80.69%",
-    "uptimeWeek": "97.24%",
-    "uptimeMonth": "99.37%",
+    "uptimeDay": "80.19%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "99.67%",
     "time": 629,
     "timeDay": 719,
@@ -168,7 +168,7 @@
     "timeMonth": 580,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2025-10-29": 278,
+      "2025-10-29": 285,
       "2025-04-20": 37,
       "2025-04-19": 1434
     }
