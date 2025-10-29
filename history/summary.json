@@ -25,11 +25,11 @@
     "url": "https://sam.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/sam.skretting.com.ico",
     "slug": "sam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.72%",
     "time": 157,
     "timeDay": 159,
@@ -37,6 +37,7 @@
     "timeMonth": 161,
     "timeYear": 172,
     "dailyMinutesDown": {
+      "2025-10-29": 2,
       "2025-04-20": 37,
       "2025-04-19": 1434
     }
@@ -46,18 +47,19 @@
     "url": "https://aquasim.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/aquasim.skretting.com.ico",
     "slug": "aqua-sim-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 648,
+    "time": 649,
     "timeDay": 591,
     "timeWeek": 559,
     "timeMonth": 758,
     "timeYear": 655,
     "dailyMinutesDown": {
+      "2025-10-29": 2,
       "2025-04-20": 37,
       "2025-04-19": 1434
     }
@@ -67,10 +69,10 @@
     "url": "https://supplierinformation.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/supplierinformation.skretting.com.ico",
     "slug": "supplier-information-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 159,
@@ -79,6 +81,7 @@
     "timeMonth": 100,
     "timeYear": 159,
     "dailyMinutesDown": {
+      "2025-10-29": 1,
       "2025-04-19": 756
     }
   },
@@ -110,12 +113,12 @@
     "status": "up",
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.55%",
     "time": 479,
     "timeDay": 500,
-    "timeWeek": 499,
+    "timeWeek": 473,
     "timeMonth": 501,
     "timeYear": 479,
     "dailyMinutesDown": {
@@ -131,10 +134,10 @@
     "url": "https://samuat.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/samuat.skretting.com.ico",
     "slug": "sam-uat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 134,
@@ -143,6 +146,7 @@
     "timeMonth": 156,
     "timeYear": 138,
     "dailyMinutesDown": {
+      "2025-10-29": 1,
       "2025-04-20": 37,
       "2025-04-19": 1434
     }
@@ -152,9 +156,9 @@
     "url": "https://aquasimuat.skretting.com",
     "icon": "https://icons.duckduckgo.com/ip3/aquasimuat.skretting.com.ico",
     "slug": "aqua-sim-portal-uat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
@@ -164,6 +168,7 @@
     "timeMonth": 569,
     "timeYear": 637,
     "dailyMinutesDown": {
+      "2025-10-29": 0,
       "2025-04-20": 37,
       "2025-04-19": 1434
     }
